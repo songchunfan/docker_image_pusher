@@ -1,4 +1,4 @@
-nginx:latest
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
@@ -9,4 +9,4 @@ node:23.3.0
 openjdk:8u342-jdk
 redis:8.0.2
 tomcat:8.0
-
+nginx:latest
