@@ -10,3 +10,4 @@ node:23.3.0
 openjdk:8u342-jdk
 redis:8.0.1
 jenkins/jenkins:2.504
+
